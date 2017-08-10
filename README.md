@@ -1,5 +1,5 @@
 # spcfixes
-This chrome extension makes SPC a bit more useable by resizing the text areas properly according to their content. It also enables the resize handle on the text areas so you can resize them manually if necessary.
+This chrome extension makes SPC a bit more usable by resizing the text areas properly according to their content. It also enables the resize handle on the text areas so you can resize them manually if necessary.
 
 ## Installation
 1. Clone this repo
@@ -8,3 +8,4 @@ This chrome extension makes SPC a bit more useable by resizing the text areas pr
 4. Click button `Load unpacked extension`
 5. In the file browser choose the `fixspc` folder within the cloned repo and click `Select`
 6. Reload SPC
+7. Celebrate!
