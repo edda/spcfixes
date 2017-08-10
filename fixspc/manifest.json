@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Fix SPC",
+  "description": "This extension makes SPC a bit more useable by resizing the text areas properly according to their content",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://spc.ondemand.com/*"],
+      "css": ["fixspc.css"],
+      "js": ["fixspc.js"]
+    }
+  ]
+}

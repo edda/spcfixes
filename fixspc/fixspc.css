@@ -1,0 +1,3 @@
+textarea[readonly="readonly"] {
+  resize: vertical;
+}
