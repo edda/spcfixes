@@ -6,7 +6,7 @@
   "version": "1.0",
   "content_scripts": [
     {
-      "matches": ["https://spc.ondemand.com/*"],
+      "matches": ["https://spc.ondemand.com/*", "https://spc*.byd.sap.corp/*"],
       "css": ["fixspc.css"],
       "js": ["fixspc.js"]
     }
