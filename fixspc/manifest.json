@@ -3,7 +3,7 @@
 
   "name": "Fix SPC",
   "description": "This extension makes SPC a bit more usable by resizing the text areas properly according to their content.",
-  "version": "1.0.1",
+  "version": "2.0",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
