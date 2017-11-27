@@ -6,7 +6,7 @@
   "version": "1.0.1",
   "content_scripts": [
     {
-      "matches": ["https://spc.ondemand.com/*", "https://spc40-emea.byd.sap.corp/*"],
+      "matches": ["<all_urls>"],
       "css": ["fixspc.css"],
       "js": ["fixspc.js"]
     }
