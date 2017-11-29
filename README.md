@@ -15,6 +15,10 @@ Works only for the HTMLUI5 version of SPC, not the Silverlight version.
 
 ## Installation (Firefox)
 
+Install from the Firefox Addons repository: https://addons.mozilla.org/en-US/firefox/addon/fix-service-provider-cockpit/
+
+If you want to modify the addon, load it from source like this:
+
 1. Clone this repo
 2. In Firefox navigate to `about:debugging`.
 3. Click on the `Load Temporary Add-on` button.
